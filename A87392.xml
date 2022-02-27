@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull and happy news from Iredand [sic]. Being an exact relation of a great victory obtained against the grand army of the rebels, on Tuesday Feb. 7. 1642. at a towne called by the name of Roscolleth, neere Longford. In which battaile there were slain above 2500. of the rebels, and but 3. of the English, onely many wounded. The names of the English commanders were these: Sir Rich. Greenvill, Cor. Emely. Lieuten. Cor. Sherlock, Lieuten. Cor. Gibs, Ser. Maj. Shirman, Ser. Maj. Ashkey, &amp;c. The names of the Irish commanders. Ser. Maj. Preston, Cor. Fits Gerrat, Cor. More, Cor. Tirrell, Cor. Philip Onelly, and Lord Trimnelstowne. The names of the Irish commanders that were slain in the battail. Coronel Plunket, Captaine Brian, Sir Tho. Nugent, Captain John Nugent, Cap. Adascalle, a Parliament man. Cap. Roger Davies, with eleven colours, and many prisoners.</title>
+            <author>Saintliger, W., Sir (William), d. 1642.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87392</idno>
+            <idno type="STC">Wing J1126</idno>
+            <idno type="STC">Thomason E91_15</idno>
+            <idno type="STC">ESTC R18364</idno>
+            <idno type="EEBO-CITATION">99860395</idno>
+            <idno type="PROQUEST">99860395</idno>
+            <idno type="VID">112515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112515)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull and happy news from Iredand [sic]. Being an exact relation of a great victory obtained against the grand army of the rebels, on Tuesday Feb. 7. 1642. at a towne called by the name of Roscolleth, neere Longford. In which battaile there were slain above 2500. of the rebels, and but 3. of the English, onely many wounded. The names of the English commanders were these: Sir Rich. Greenvill, Cor. Emely. Lieuten. Cor. Sherlock, Lieuten. Cor. Gibs, Ser. Maj. Shirman, Ser. Maj. Ashkey, &amp;c. The names of the Irish commanders. Ser. Maj. Preston, Cor. Fits Gerrat, Cor. More, Cor. Tirrell, Cor. Philip Onelly, and Lord Trimnelstowne. The names of the Irish commanders that were slain in the battail. Coronel Plunket, Captaine Brian, Sir Tho. Nugent, Captain John Nugent, Cap. Adascalle, a Parliament man. Cap. Roger Davies, with eleven colours, and many prisoners.</title>
+                  <author>Saintliger, W., Sir (William), d. 1642.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Blackmore,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Saintliger.</note>
+                  <note>Annotation on Thomason copy: the 3 in the imprint date is crossed out; "March. 1. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grenville, Richard, --  Sir, 1600-1658.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112515:1" rendition="simple:additions"/>
+            <p>Joyfull and Happy News FROM IREDAND Being an exact relation of a great Victory obtained againſt the grand Army of the Rebels, on Tueſday Feb. 7. 1642. at a Towne called by the name of <hi>Roſcolleth,</hi> neere <hi>Longford.</hi>
+            </p>
+            <p>
+               <hi>In which battaile there were ſlain above</hi> 2500. <hi>of the Rebels, and but</hi> 3. <hi>of the Engliſh, onely many wounded.</hi>
+            </p>
+            <p>The names of the Engliſh Commanders were theſe: <hi>Sir Rich. Greenvill, Cor. Emely. Lieuten. Cor. Sherlock, Lieuten. Cor. Gibs, Ser. Maj. Shirman, Ser. Maj. Aſhkey, &amp;c.</hi>
+            </p>
+            <p>The names of the Iriſh Commanders. <hi>Ser. Maj. Preſton, Cor. Fits Gerrat, Cor. More, Cor. Tirrell, Cor. Philip Onelly, and Lord Trimnelſtowne.</hi>
+            </p>
+            <p>The names of the Iriſh Commanders that were ſlain in the battail. <hi>Coronel Plunket, Captaine Brian, Sir Tho. Nugent, Captain John Nugen, Cap. Adascalle, a Parliament man. Cap. Roger Davies, with eleven Colours, and many Priſoners.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Printed for</hi> Edw. Blackmore. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:112515:2" rendition="simple:additions"/>
+            <pb facs="tcp:112515:2"/>
+            <head>A Relation of a great Victory obtaind by Sir <hi>RICHARD GREENVIL.</hi> Againſt the Iriſh Rebels, on Tueſday the ſeventh of February.</head>
+            <p>BY command of the Lord Marques of <hi>Ormond,</hi> certaine forces of both horſe were foot unto were ſent unto <hi>Trimme</hi> for the reliefe of <hi>Athlone,</hi> with a direction unto Sir <hi>Richard Greenvile</hi> to have the cheife command thereof, which forces arived at <hi>Trim</hi> on <hi>Thurſday the</hi> 26. <hi>of Ian.</hi> on <hi>Friday</hi> morning then following Sir <hi>Richard</hi> marched thence towards <hi>Athloane,</hi> about 900. foot, which Sir <hi>Iohn Shirlog</hi> Commanded, &amp; alſo 200. horſe which Captain <hi>Vaughan</hi> (ſince Knighted) Commanded, and that night all lodged at <hi>Athbay. Saturday</hi> the 28. being come nigh <hi>Ballinacurre</hi> a very ſtrong paſſe, we found the enemy poſſeſſing it with 300. hundred men, haveing there cut off the bridge, whereat Sir <hi>Richard</hi> commanded certaine dragoners to force that, and alſo ſent a party of horſe to ſecond them, which the enemy oppoſed, untill ſome of the horſe found a place there by, where they leapt over a deepe ditch of water which put them all to flight over a bog, in which eſcape divers of the Rebells were ſlain, and as it was ſaid alſo one of their Commanders.</p>
+            <p>
+               <hi>Sunday</hi> the 29. marching forwards four of our horſe ſcouts eſpied four of the Rebells ſcouts on the top or a hill before them, who ſeeing; our ſcouts haſting towards them withſtood them (being Country Gentle<g ref="char:EOLhyphen"/>men) of good quality, and being but four to four they encountred each other fairely with their ſwords, untill one of the Rebels had both given &amp; received a wound, &amp; was ſeized on by one of our ſcouts, whereat the reſt being very well mounted eſcaped away, leaving their conſort to be ſlain in the place, and being come nigh <hi>Tubbertorne</hi> where we lodged that night, ſome of our horſe tooke a Gentlewoman of good quality who ſtood on <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hill thereby guarded with ſome Muſketiers. Munday the 30. Being come nigh and within five miles of <hi>Athloane,</hi> wee tooke one Mr. <hi>Richard Dillon</hi> priſoner, who informed Sir <hi>Richard,</hi> that Collonell <hi>Preſton</hi> was ſending all the Forces he could make to hinder our coming at <hi>Athlone,</hi> therefore wiſhed us to make all the haſte thither we could preſently thereon a horſeman of our forlorn-hope came back and in<g ref="char:EOLhyphen"/>formed Sir <hi>Richard</hi> that 7. Colours of the Enemies were marching to<g ref="char:EOLhyphen"/>ward us, Sr. <hi>Richard</hi> then preſently commanded forth ſome of his Horſe
+<pb facs="tcp:112515:3"/>to ſecond the foure Troops which that interim charged the Enemy, who retreated to a Bog, where moſt of them might have been cut off, had not the care of the ſafe conduct of the proviſions appointed for the reliefe of <hi>Athlone</hi> care forbidden it, that night wee came all ſafe to <hi>Ath<g ref="char:EOLhyphen"/>lone,</hi> where wee all ſtaid the next day following.</p>
+            <p>Wedneſday 31. Sir <hi>Richard</hi> ſent all our Horſe and Foot to quarter at <hi>Kilkennie,</hi> weſt 4. miles thence, untill ſuch time as 300. of the Lord <hi>Kanelaghs,</hi> and 300. of Sir <hi>Michael Ernelies</hi> Regiment might he drawn thither from their out Garriſons to march backe with us, and when our Horſe approached nigh to <hi>Kilkennie,</hi> they diſcovered that it was ſtrongly manned by Sir <hi>Iames Dillons</hi> Forces, Captain Mr. <hi>Thomas</hi> his Troops, and Collonell <hi>Farrals</hi> Regiment of the County of <hi>Long<g ref="char:EOLhyphen"/>ford,</hi> whereat Captain <hi>Vaughan</hi> with ſome of the Horſe fell into their quarters, and kild a Captain and ſome other of their Officers, and alſo a<g ref="char:EOLhyphen"/>bout 50. of their ſouldiers, and tooke many of their Officers, and alſo a<g ref="char:EOLhyphen"/>bout quarters untill Satturday, at which, on the 4. of <hi>Feb.</hi> we all quar<g ref="char:EOLhyphen"/>tered at and about a place called the <hi>Mote,</hi> at which time the 600. expect<g ref="char:EOLhyphen"/>ed, were lodged with us, where Captain <hi>Vaughan</hi> found in his quarters, an Engliſhmans wife, and underſtood the generall report of the Coun<g ref="char:EOLhyphen"/>try was, that the <hi>Iriſh</hi> had gathered all the Forces they could get toge<g ref="char:EOLhyphen"/>ther, and were confident to compaſſe us in on every ſide, and to cut us off, reſolving, and vowing not to leave a man of us alive, ſaying alſo that if we ſhould get that victory the heart of their warres would be broken, for that it was an antient Prophecie much talked of among the Iriſh, that that ſide that ſhould winne the Battell at <hi>Rathconnell,</hi> ſhould be conquerors of the Kingdome, it being a tradition ſuperſtitiouſly held by the native Iriſh; On Munday the 5. we marched towards <hi>Trim,</hi> mee<g ref="char:EOLhyphen"/>ting no oppſition but foule weather, and wayes, which greatly diſheart<g ref="char:EOLhyphen"/>ned the ſouldiers, and killed divers of them, in which time wee tooke ſeverall of the Country People, who all confirmed the former reports of the Enemies Forces and intentions, Sir <hi>Richard</hi> notwithſtanding ſaid he was reſolved not to ſhunne a foot of his way were the Enemy never ſo ſtrong; Tueſday the 7. proceeding on the march, wee underſtood of divers Troops of Horſe and foot that dayly had followed our Reare, which then was guarded by a Troope of Horſe commanded by Lievete<g ref="char:EOLhyphen"/>nant <hi>Hatcher,</hi> who charged certain Forces of the Enemy which were advanced ſomewhat nigh him, and then cut off about 20. of them, after<g ref="char:EOLhyphen"/>wards about 11. of the Clocke the ſame day, being come nigh <hi>Mollis<g ref="char:EOLhyphen"/>lingar,</hi>
+               <pb facs="tcp:112515:3"/>we took a priſoner, who told us the Iriſh Forces poſſeſt our Paſſe at Rathconnell, being very ſtrong in numbers of men, &amp; the prime offi<g ref="char:EOLhyphen"/>cers and gentry of the Countrey, whereupon Sir <hi>Rich.</hi> haſtened the ad<g ref="char:EOLhyphen"/>vance of his Forces, and being come nigh in view of the Paſſe, perceived it to be very narrow, and that it was cut off by a broad and deep trench, being compaſſed in on each ſide with great bogs, and having adjoyning unto it on a very ſteep hill a very ſtrong caſtle, and divers other works well manned, by which there appearee no paſſage either for horſe or foot, then did Sir <hi>Rich.</hi> draw all his forces into battel order before, which conſiſted of a forlorne hope of 50. Muſquetiers, commanded by Lievten. <hi>Dikes,</hi> and 2. wings of 60. ſhot more, commanded by two Enſigns (one of them a coward) the forlorne hope being ſeconded with a diviſion of 200. Musquetiers, which was commanded by Sir <hi>Iohn Sheirlege,</hi> which the vanguard of our little Armie, whereof the firſt diviſion was led by Cap. <hi>Varney,</hi> and Lieuten. <hi>Oliver,</hi> and the ſecond diviſion of it by Lieuten. <hi>Williams,</hi> and alſo the third diviſion by Sergeant Major <hi>Morris,</hi> the reſt of the Forces conſiſted of 3. diviſions of Pikes, flankt with ſhot, which ſerved for the battle of the Anmie, each containing about 300. men, whereof the firſt was led by Cap. <hi>Honiwood,</hi> the ſecond by Major <hi>Ship<g ref="char:EOLhyphen"/>man,</hi> the third by Sir <hi>Mich. Ernely,</hi> after which followed another diviſi<g ref="char:EOLhyphen"/>on of 200, Muſquetiers, commanded by Major <hi>Forteſcue,</hi> which was for the reare-guard, which reare was guarded by a forlorne hope of 50, Muſ<g ref="char:EOLhyphen"/>quetiers: likewiſe thoſe foot were flankt with three diviſions of Horſe, whereof Capt. <hi>Vanghan</hi> commanded the Van-guard, Lieuten. <hi>Rogers</hi> the battel, and Lieuten. <hi>Hatcher</hi> the reard-guard. Likewiſe before the Van-guard of the Foot marched the Lo: <hi>Ranelagh,</hi> leading a troop of Volun<g ref="char:EOLhyphen"/>tiers, likewiſe for the forlorne hope of the Reare, Cap. <hi>Pate</hi> commanded 40. Dragooners, which were alſo aſſiſted with 20. firelocks. Which done, and not onely having a ſtrong enemie before us of above 2000. foot and 6. horſe-troops, and others at leaſt 600. on our right hand, and 600. more at a diſtance on our left, (upon the bogs of Langford men, not far off from which were haſting up to ſecond them 800. of the Rei<g ref="char:EOLhyphen"/>lies) then unknown to us there was waiting upon our reare 500. more, which then newly poſſeſt-Mellingar, half a mile behind us, to hinder our retreat, then for to begin the play, the forlorne hope 50 ſhot, advanced on right towards the paſſe, did the left wing of ſhot to flanke that, the right wing ſtaying behind contrary to command, whoſe ground notwith<g ref="char:EOLhyphen"/>ſtanding was made good by others, thoſe together being advanced as far
+<pb facs="tcp:112515:4"/>as they could, were ſeconded by ſeverall diviſions drawn out of the van<g ref="char:EOLhyphen"/>guard, which alſo diſputing it with the enemie, without any apparent good ſucceſſe, Sir <hi>Rich.</hi> was enforced before the front of the reſt of the Forces to ſay, there was no other remedy now, but that we muſt reſolve to carry it or dye, becauſe he ſaw great numbers or men approaching to<g ref="char:EOLhyphen"/>wards our right hand, and alſo our left, which if they ſhould come to joyn with thoſe before us, would be too ſtrong for us. Therefore now of neceſſity all muſt uſe their beſt endeavour through the Paſſe upon the enemie, and by doing of it reſolutely, there was no doubt of good ſuc<g ref="char:EOLhyphen"/>ceſſe. Whereunto all men ſeemed very willing, and ſo accordingly the 3. diviſions of the battel advanced cheerfully with their colours, flying to force the way, Sir Rich. keepi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k upon reſerve 250. Musketiers, which 3. laſt diviſions being come at puſh of pike, with the Rebels that defend<g ref="char:EOLhyphen"/>ed the Paſſe, and Sir Mich. Erneley eſpying the advance of the Longford men on our left hand, marched towards them, and they preſently recei<g ref="char:EOLhyphen"/>ved a charge by the horſe that Bryan commanded, which by our ſhot was repulſt, and Bryan himſelfe ſhot dead, and that gave a ſtop to the Longford men, in the interim of the conflict many of the Forces from off the Caſtle were running ſpeedily to charge our right wing of ſhot, which Sir Rich. repulſt by ſending againſt them more ſhot, from out of his laſt reſerve, which ſudden fury being ſtopt, and the ſervice continu<g ref="char:EOLhyphen"/>ing violent on all ſides for two houres together, with doubtful ſucceſſe, Sir <hi>Rich.</hi> ſent forth all the remainder of the foot to aſſiſt thoſe at the Paſſe, during which skirmiſh Lieu. <hi>Rogers</hi> did at ſeverall times very ear<g ref="char:EOLhyphen"/>neſtly deſire Sir <hi>Rich.</hi> to give him leave to attempt to force a way through that Paſſe with the Horſe that he commanded, whereto at laſt Sir <hi>Rich.</hi> gave him leave, who haſtened to find a way, and being come at the bank and ditch of the Paſſe, found no poſſible means there of getting through, at which time Major <hi>Morris</hi> called unto him, ſaying, he had found a place for his horſe to paſſe through, then that troop haſtened on to it, <hi>Edward Roſcarroh</hi> of the ſaid troop firſt rid through, the Lieuten. and the reſt of the troop cloſely following them, and being got over, the forlorne troop led by <hi>Bru Dickſey</hi> followed them, and then preſently did thoſe of our horſe charge the enemies horſe that were before them, who being unwilling to ſtand the ſhock, began all to run away, in the purſuit whereof Lieuten. <hi>Rogers</hi> with the troop he commanded chanced to follow a troop, in whoſe reare was taken priſoner Coronel <hi>Anthonie Preſton,</hi> eldeſt ſon of their Generall <hi>Preſton,</hi> and alſo there was ſlaine
+<pb facs="tcp:112515:4"/>many of the ſaid troop, and the ſame time Corporall <hi>Picksey</hi> command<g ref="char:EOLhyphen"/>ing the forlorne hopes, purſued another horſe troop, killed many of them, and found the dead body of Cap. <hi>Brian,</hi> who was lately run from Sir <hi>Tho. Lucas</hi> troop, whoſe head was brought away, our foot having been at leaſt two houres before at handiblows, and throwing ſtones, our men with one accord cheerfully came on upon thoſe that manned the trenthes, and made them run away.</p>
+            <p>Which ſuddain change drew after them all the reſt of their Forces, and being poſſeſt of their workes and hill, Sir <hi>Richard</hi> gave charge to Sr. <hi>Iohn Sherlocke</hi> that he with all convenient ſpeed ſhould draw his men together in good order upon that ground, and furniſh all his men with Ammunition, while he himſelfe with the Horſe purſued the <hi>Longford</hi> men, in which purſuite it happened that Captaine <hi>Vaughan</hi> with a part of thoſe Horſe takeing another way, was guided by noble Sr. <hi>Charles Coote</hi> that way ward that the Enemy eſcaped, and at laſt overtooke the greateſt part of them, and there ſlew as is by all believed at leaſt 200. of them, ſo that we verily believe there was ſlain in all about a 2500. during which purſuite our Foot remained about the adjoyning Gaſtle, ſearch<g ref="char:EOLhyphen"/>ing as they uſually doe all holes, found in the Caſtle 8. Enſignes of the Rebels, alſo Captaine <hi>Betagh,</hi> Captain <hi>Bardall,</hi> Lievetenant <hi>Elmore,</hi> and about 6. ſouldiers, and 3. other of their Enſignes were found a<g ref="char:EOLhyphen"/>broad among dead bodies, in conflict of our men was ſlain but onely 3. ſouldiers and about 20. Officers and ſouldiers hurt, whereof Sergeant Major <hi>Shipman,</hi> who ſhewed himſelfe a very valliant ſouldier, was one of the chiefe that was hurt.</p>
+            <p>The Battaile being ended, our Forces marched thence to Maſiſtown, and in the field before the Forces were drawn into their quarters, Sir <hi>Richard</hi> cauſed a Miniſter in the head of all the Army publiquely to give God thanks every man kne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling for the victory, publiquely ſaying that it was the work of God and not of man, which every man ſeemed thankfully to acknowledge, and this night we underſtood that there was ſlame in the fight, Coronell <hi>Patrick Plinket,</hi> Cap: <hi>Bryan,</hi> Sir <hi>Tho: Nugents</hi> only ſon and heire, Cap: <hi>Iohn Nugent</hi> of Balinſcarrie, Captain <hi>Adan Cuſake</hi> a Parl. Man, Cap <hi>Marcus Geohagan,</hi> Cap: <hi>Roger Darcyes.</hi>
+            </p>
+            <p>Alſo the names of the enemies Commanders that were preſent at the Battell are theſe, Ser. Major. Gen. <hi>Iohn Preſton</hi> Col: <hi>Anthony Preſton,</hi> Coronel M. <hi>Tho: fits Gerrat, Cor. Piers fits Gerrats,</hi> Sir <hi>Luke fits Gerrat,</hi> Cor: <hi>Roger O Moore,</hi> Cor: <hi>Tirrell,</hi> Cor: <hi>Walter Nugent,</hi> Cor: <hi>Phill. O Rey<g ref="char:EOLhyphen"/>ley,</hi>
+               <pb facs="tcp:112515:5"/>Cor: <hi>Francis Farrall,</hi> Cor: <hi>Brian Farrall,</hi> Sir <hi>Tho: Nagent,</hi> Tho: <hi>Trimnelſtowne,</hi> &amp;c.</p>
+            <p>That night Sir <hi>Richard Greenvile</hi> in giving out his orders for the watch, gave for the watch word Revenge, and alſo for the feild word Iuſtice, which was correſpondent to Gods bleſſing in the victory. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Wedneſday</hi> the 8. we lodged at Martinſtowne. <hi>Thurſ</hi> the 9. all our forces quartered in and about Trim, from whenc they marched the next day unto their former garriſons.</p>
+            <p>The names of the ſuperior officers we had preſent in theſe conflicts are Sir <hi>Richard Greenvile,</hi> Coronell Sir <hi>Mich: Ernely,</hi> Leivt: Cor: Sir <hi>Iohn Shirlocke;</hi> Lieut. Cor: <hi>Gibbs,</hi> Ser: Major, Sir <hi>Abraham Shipman,</hi> Ser: Major <hi>Aſhkey,</hi> Ser: Major <hi>Morris,</hi> Ser: Major <hi>Forteſene,</hi> Cap: <hi>Hunnywood,</hi> Cap: <hi>Lucas,</hi> Cap: <hi>Varney,</hi> Cap: <hi>Sands,</hi> Cap: <hi>Loftus,</hi> Cap: <hi>Nichols,</hi> Cap: <hi>Palmer,</hi> Sir <hi>William Brouchroſt,</hi> Cap: <hi>Vaughan,</hi> Leiutenant <hi>Rogers,</hi> Leuit: <hi>Hatcher,</hi> and for Dragoners Cap: <hi>Pate,</hi> all which officers did excellently performe their duties, as did alſo all the inferiour Officers, excepting on<g ref="char:EOLhyphen"/>ly Ancient <hi>Lake. Gloria Deo.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
